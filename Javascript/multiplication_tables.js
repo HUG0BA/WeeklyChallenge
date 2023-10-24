@@ -13,16 +13,16 @@
 
 
 //------------------------FINAL SOLUTION---------------------------
-/*
+
 function mTables(number){
     for(let i = 0; i <= 10; i++){
-        console.log(i + " X " + number + " = " + (i * number))
+        console.log(`${i} X ${number} = ${(i * number)}`)
     }
 }
 
 mTables(1)
 mTables(5)
-*/
+
 //--------------------------------------------------------------------
 
 
